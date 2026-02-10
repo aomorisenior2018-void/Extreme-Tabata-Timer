@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   return {
     // GitHub Pagesのリポジトリ名が 'Extreme-Tabata-Timer' の場合、
     // base: '/Extreme-Tabata-Timer/' と記述するのが最も確実ですが、
-    // 相対パスベースの './' でも構成によっては動作します。
+    // 相対パスベースの './' でも構成によっては動作します 。
     base: './',
     server: {
       port: 3000,
